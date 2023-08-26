@@ -1,0 +1,73 @@
+** start of undefined **
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+<link rel="stylesheet" href="styles.css">
+<title>Technical Documentation</title>
+</head>
+<main id="main-doc">
+  <nav id="navbar">
+    <header>Technical Documentation</header>
+    <a href="#topic_one" class="nav-link">topic one</a>
+    <a href="#topic_two" class="nav-link">topic two</a>
+    <a href="#topic_three" class="nav-link">topic three</a>
+    <a href="#topic_four"
+    class="nav-link">topic four</a>
+    <a href="#topic_five" class="nav-link">topic five</a>
+  </nav>
+  <section id="topic_one" class="main-section">
+    <header>topic one</header>
+    <p></p>
+    <p></p>
+    <p></p>
+    <p></p>
+    <p></p>
+    <p></p>
+    <p></p>
+    <p></p>
+    <p></p>
+    <p></p>
+  </section>
+  <section id="topic_two" class="main-section">
+    <header>topic two</header>
+    <code></code>
+    <code></code>
+    <code></code>
+    <code></code>
+    <code></code>
+  </section>
+  <section id="topic_three" class="main-section">
+    <header>topic three</header>
+    <ul>
+      <li></li>
+      <li></li>
+      <li></li>
+      <li></li>
+      <li></li>
+    </ul>
+  </section>
+  <section id="topic_four" class="main-section">
+    <header>topic four</header>
+  </section>
+  <section id="topic_five" class="main-section">
+    <header>topic five</header>
+  </section>  
+</main>
+</html>
+
+** end of undefined **
+
+** start of undefined **
+
+@media(max-width: 600px) {
+  section {
+    width: 0;
+  }
+}
+
+** end of undefined **
+
